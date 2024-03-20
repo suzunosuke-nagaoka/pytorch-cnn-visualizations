@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "pytorch_cnn_visualizations"
+version = "0.1.0"
+description = ""
+authors = ["extreme-ojisan <40806828+extreme-ojisan@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.07"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
